@@ -1,6 +1,6 @@
 ### Hi👋, I'm Rijin!
 - 🔭 I’m currently improving my old projects 
-- 🌱 I’m exploring Rust, C# & Emdedded Sofware Development
+- 🌱 I’m exploring C# & Emdedded Sofware Development
 - ⚙️ Studying Mechatronics Engineering @UWaterloo
 - 📫 How to reach me: rijin113@gmail.com
 
