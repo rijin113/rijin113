@@ -1,5 +1,5 @@
 ### Hi👋, I'm Rijin!
-- 🔭 I’m currently improving my old projects 
+- 🔭 I’m currently working on new projects 
 - 📚 I’m learning ROS & exploring embedded sofware development
 - 🛠️ Studying Mechatronics Engineering @UWaterloo
 - 📫 How to reach me: rijin113@gmail.com
