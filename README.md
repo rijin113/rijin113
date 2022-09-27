@@ -1,6 +1,6 @@
 ### Hi👋, I'm Rijin!
 - 🔭 I’m currently working on new projects 
-- 📚 I’m learning ROS & exploring embedded sofware development
+- 📚 I’m learning Rust, ROS & exploring embedded sofware development
 - 🛠️ Studying Mechatronics Engineering @UWaterloo
 - 📫 How to reach me: rijin113@gmail.com
 
