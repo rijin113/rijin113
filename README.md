@@ -1,8 +1,8 @@
 ### Hi👋, I'm Rijin!
 - 🔭 I’m currently working on Robotics projects!
-- 👨🏽‍💻 Incoming Firmware Developer @onsemi this winter!
 - 📚 I’m learning Rust, ROS, Docker & exploring embedded software development
 - 🛠️ Studying Mechatronics Engineering @UWaterloo
+- 🚀 Incoming Firmware Developer @onsemi this winter!
 - 📫 How to reach me: rijin113@gmail.com
 
 <!--
