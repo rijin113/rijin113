@@ -4,7 +4,7 @@ I'm a Mechatronics Engineering student at the University of Waterloo who really 
 - 📚 Currently, I'm learning FreeRTOS, Go, Rust and exploring various concepts in controls software. 
 - 🛠️ Check out my latest project! I built a [Self Balancing Robot](https://github.com/rijin113/Self_Balancing_Robot) on the STM32! It uses a finite state machine, a PID controller and a custom [I2C driver](https://github.com/rijin113/MPU6050_I2C_Driver) that I made to interface with the robot's IMU.
 
-In terms of my past experience, I have interned at onsemi as a Firmware developer in the Mobile, Cloud, and Computing division. Currently, I am interning as a Software Developer at Avidrone, focusing on Unmanned Aircraft Systems.
+In terms of my past experience, I have interned at onsemi as a Firmware developer in the Mobile, Cloud, and Computing division. Recently, I also interned as a Software Developer at Avidrone where I developed software and firmware for Unmanned Aircraft Systems.
 
 - 📫 Feel free to contact me at rijin113@gmail.com if you have any questions or would like to learn more about me!
 
