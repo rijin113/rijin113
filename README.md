@@ -8,9 +8,11 @@ I'm a Mechatronics Engineering student at the University of Waterloo who really 
 
 ### Experiences
 - 🛰️  Incoming Embedded Software Engineering Intern at [Canadensys](https://www.canadensys.com/),
+- 💡  Firmware Engineering Intern at [Infinera](https://www.infinera.com/) focusing on DSP firmware and SDK,
+- 🛩️  Embedded Software Developer Intern at [Avidrone](https://avidrone.com/) focusing on Unmanned Aircraft Systems,
+- 🤖  Undergraduate Research Assistant at [AIR Labs](https://uwaterloo.ca/active-and-interactive-robotics-lab/) working on Social Human Robot Interactions,
 - ⚡  Firmware developer Intern at [onsemi](https://www.onsemi.com/) in the Mobile, Cloud, and Computing division,
-- ✈️  Embedded Software Developer Intern at [Avidrone](https://avidrone.com/) focusing on Unmanned Aircraft Systems,
-- 💡  Firmware Engineering Intern at [Infinera](https://www.infinera.com/) focusing on DSP firmware and SDK
+- 📊  Data Engineering Intern at [Day5](https://www.day5analytics.com/) focusing on Data Analytics & Integration, Robotic Process Automation (RPA)
 
 📫 Feel free to contact me at rijin113@gmail.com if you have any questions or would like to learn more about me!
 
