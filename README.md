@@ -1,5 +1,5 @@
 ## Hi👋, I'm Rijin!
-I'm a Mechatronics Engineering student at the University of Waterloo who really loves working on complex projects in the field of robotics and embedded software!
+I'm a Mechatronics Engineering student at the University of Waterloo who loves working on complex projects in the field of robotics and embedded software!
 
 - 📚 Currently, I'm learning FreeRTOS, Go, Rust and exploring various concepts in controls software. 
 - 🛠️ Check out my latest projects!
