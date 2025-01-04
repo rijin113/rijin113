@@ -7,7 +7,6 @@ I'm a Mechatronics Engineering student at the University of Waterloo who loves w
   - A ball balancing [Stewart Platform](https://github.com/krish-vijayan/Stewart-Platform). It uses a PID controller, and a computer vision system for object tracking.
 - 🌱 Looking for Summer 2025 Internships! 
  
-
 ### Experiences
 - 🛰️  Currently, working as an Embedded Software Engineering Intern at [Canadensys](https://www.canadensys.com/),
 - 💡  Firmware Engineering Intern at [Infinera](https://www.infinera.com/) focusing on DSP firmware and SDK,
