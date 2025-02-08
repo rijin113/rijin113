@@ -7,7 +7,7 @@ A Mechatronics Engineering student at the University of Waterloo who loves worki
   - A ball balancing [Stewart Platform](https://github.com/krish-vijayan/Stewart-Platform). It uses a PID controller, and a computer vision system for object tracking.
  
 ### Experiences
-- 🛰️  Currently, working as an Embedded Software Engineering Intern at [Canadensys](https://www.canadensys.com/),
+- 🛰️  Currently, working as an Embedded Software Engineering Intern at [Canadensys](https://www.canadensys.com/) on the Lunar Rover mission,
 - 💡  Firmware Engineering Intern at [Infinera](https://www.infinera.com/) focusing on DSP firmware and SDK,
 - 🛩️  Embedded Software Developer Intern at [Avidrone](https://avidrone.com/) focusing on Unmanned Aircraft Systems,
 - 🤖  Undergraduate Research Assistant at [AIR Labs](https://uwaterloo.ca/active-and-interactive-robotics-lab/) working on Social Human Robot Interactions,
