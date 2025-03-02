@@ -5,9 +5,9 @@ A Mechatronics Engineering student at the University of Waterloo who loves worki
 - 🛠️ Check out my latest projects!
   - A [Self Balancing Robot](https://github.com/rijin113/Self_Balancing_Robot) on the STM32! It uses a finite state machine, a PID controller and a custom [I2C driver](https://github.com/rijin113/MPU6050_I2C_Driver) that I made to interface with the robot's IMU.
   - A ball balancing [Stewart Platform](https://github.com/krish-vijayan/Stewart-Platform). It uses a PID controller, and a computer vision system for object tracking.
-  - Working as an Embedded Software Engineering Intern at [Canadensys](https://www.canadensys.com/) on the Lunar Rover mission,
  
-### Past Experiences
+### Experiences
+- 🛰️  Working as an Embedded Software Engineering Intern at [Canadensys](https://www.canadensys.com/) on the Lunar Rover mission,
 - 💡  Firmware Engineering Intern at [Infinera](https://www.infinera.com/) (DSP firmware and SDK),
 - 🛩️  Embedded Software Developer Intern at [Avidrone](https://avidrone.com/) (Unmanned Aircraft Systems),
 - 🤖  Undergraduate Research Assistant at [AIR Labs](https://uwaterloo.ca/active-and-interactive-robotics-lab/) (Social Human Robot Interactions),
