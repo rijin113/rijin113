@@ -7,13 +7,13 @@ A Mechatronics Engineering student at the University of Waterloo who loves worki
   - A ball balancing [Stewart Platform](https://github.com/krish-vijayan/Stewart-Platform). It uses a PID controller, and a computer vision system for object tracking.
  
 ### Experiences
+- 🧬  Incoming @ [Randox Laboratories](https://www.randox.com) as an Embedded Software Engineering Intern working on diagnostic analyzers,
 - 🛰️  Working as an Embedded Software Engineering Intern at [Canadensys](https://www.canadensys.com/) on the Lunar Rover mission,
 - 💡  Firmware Engineering Intern at [Infinera](https://www.infinera.com/) (DSP firmware and SDK),
 - 🛩️  Embedded Software Developer Intern at [Avidrone](https://avidrone.com/) (Unmanned Aircraft Systems),
 - 🤖  Undergraduate Research Assistant at [AIR Labs](https://uwaterloo.ca/active-and-interactive-robotics-lab/) (Social Human Robot Interactions),
 - ⚡  Firmware developer Intern at [onsemi](https://www.onsemi.com/) (Mobile, Cloud, and Computing division),
 - 📊  Data Engineering Intern at [Day5](https://www.day5analytics.com/) (Data Analytics & Integration, Robotic Process Automation (RPA))
-- 🌱  Looking for Summer 2025 Internships! 
 
 📫 Feel free to contact me at rijin113@gmail.com if you have any questions or would like to learn more about me!
 
