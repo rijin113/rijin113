@@ -1,7 +1,7 @@
 ## Hi👋, I'm Rijin!
 A Mechatronics Engineering student at the University of Waterloo who loves working on complex projects in the field of robotics and embedded software.
 
-- 📚 Currently, I'm learning FreeRTOS, Go, Rust and exploring various concepts in controls software. 
+- 📚 Currently, I'm learning Rust, Go, and PCB design.
 - 🛠️ Check out my latest projects!
   - A [Self Balancing Robot](https://github.com/rijin113/Self_Balancing_Robot) on the STM32! It uses a finite state machine, a PID controller and a custom [I2C driver](https://github.com/rijin113/MPU6050_I2C_Driver) that I made to interface with the robot's IMU.
   - A ball balancing [Stewart Platform](https://github.com/krish-vijayan/Stewart-Platform). It uses a PID controller, and a computer vision system for object tracking.
