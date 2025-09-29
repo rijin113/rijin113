@@ -3,7 +3,7 @@ A Mechatronics Engineering student at the University of Waterloo who loves worki
 
 - 📚 Currently, I'm learning Rust, Go, and PCB design.
 - 🛠️ Check out my latest projects.
-  - [Self Balancing Robot](https://github.com/rijin113/Self_Balancing_Robot) on the STM32! It uses a finite state machine, a PID controller and a custom [I2C driver](https://github.com/rijin113/MPU6050_I2C_Driver) that I made to interface with the robot's IMU.
+  - [Self Balancing Robot](https://github.com/rijin113/Self_Balancing_Robot) on the STM32. It uses a finite state machine, a PID controller and a custom [I2C driver](https://github.com/rijin113/MPU6050_I2C_Driver) that I made to interface with the robot's IMU.
   - Ball balancing [Stewart Platform](https://github.com/krish-vijayan/Stewart-Platform). It uses a PID controller, and a computer vision system for object tracking.
  
 ### Experiences
