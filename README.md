@@ -1,5 +1,5 @@
 ## Hi👋, I'm Rijin!
-Mechatronics Engineering student at the University of Waterloo.
+Mechatronics Engineering student at the University of Waterloo
 
 - 📚 Currently, I'm learning Rust, Go, and PCB design.
 - 🛠️ Check out my latest projects.
